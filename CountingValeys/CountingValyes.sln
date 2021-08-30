@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountingValeys", "CountingValyes\CountingValeys.csproj", "{991E7B77-96BA-4FBF-BBD2-765AF5516473}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{991E7B77-96BA-4FBF-BBD2-765AF5516473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{991E7B77-96BA-4FBF-BBD2-765AF5516473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{991E7B77-96BA-4FBF-BBD2-765AF5516473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{991E7B77-96BA-4FBF-BBD2-765AF5516473}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39C832FC-F7CC-4089-8E7F-1E5740F23050}
+	EndGlobalSection
+EndGlobal
